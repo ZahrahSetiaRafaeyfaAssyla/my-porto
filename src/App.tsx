@@ -1,5 +1,5 @@
 import React from "react";
-import DarkVeil from "./assets/Backgrounds/DarkVeil/DarkVeil";
+import DarkVeil from "./backgrounds/DarkVeil/DarkVeil";
 import LoadingScreen from "./components/LoadingScreen";
 import PillNav from "./components/PillNav/PillNav";
 import TrueFocus from "./TextAnimations/TrueFocus/TrueFocus";
