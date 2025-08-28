@@ -1,11 +1,11 @@
 import React from "react";
-import DarkVeil from "./Backgrounds/DarkVeil/DarkVeil";
-import LoadingScreen from "./Components/LoadingScreen";
-import PillNav from "./Components/PillNav/pillnav";
+import DarkVeil from "./assets/Backgrounds/DarkVeil/DarkVeil";
+import LoadingScreen from "./components/LoadingScreen";
+import PillNav from "./components/PillNav/PillNav";
 import TrueFocus from "./TextAnimations/TrueFocus/TrueFocus";
-import StarBorder from "./Animations/StarBorder/starborder";
-// import Lanyard from "./Components/Lanyard/Lanyard";
+import StarBorder from "./Animations/StarBorder/StarBorder";
 import ElectricBorder from "./Animations/ElectricBorder/ElectricBorder";
+// import Lanyard from "./Components/Lanyard/Lanyard";
 import { Linkedin, Github, Instagram } from "lucide-react";
 // import LogoLoop from "./Components/LogoLoop/LogoLoop";
 function App() {
